@@ -1,1 +1,1 @@
-0x08. C - Recursion
+Add solutions to tasks on recurssions
